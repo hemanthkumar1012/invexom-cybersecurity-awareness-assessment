@@ -1,0 +1,8 @@
+Cybersecurity_Awareness_Assessment/
+├── README.md
+├── cybersecurity_awareness_assessment.md
+├── employee_security_checklist.md
+├── Cybersecurity_Awareness_Assessment.pdf
+├── submission_description.txt
+├── submission_form_guide.txt
+└── video_script.txt
