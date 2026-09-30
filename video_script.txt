@@ -1,0 +1,28 @@
+VIDEO SCRIPT - INVEXOM CYBERSECURITY INTERNSHIP
+
+Opening:
+"Hello, this task was completed under the mentorship of Invexom as part of my Cybersecurity Internship."
+
+Then show the GitHub repository and briefly scroll through:
+1. Project overview
+2. Fictional organization profile
+3. Risk assessment
+4. Examples and prevention recommendations
+5. Employee cybersecurity checklist
+6. PDF deliverable
+
+Suggested narration:
+"I created a basic security awareness assessment for a fictional small organization called NovaBridge Solutions. The organization has around 25 employees who use email, cloud storage, laptops, mobile devices, and SaaS applications.
+
+I identified 12 common cybersecurity risks that employees may face in day-to-day work. These include weak or reused passwords, phishing, unsafe downloads, unsecured devices, social engineering, improper data sharing, outdated software, untrusted links, public Wi-Fi, unknown USB devices, missing multi-factor authentication, and excessive access privileges.
+
+For every risk, I documented the risk description, potential impact, a realistic employee scenario, and a practical prevention measure.
+
+Finally, I created an employee cybersecurity checklist that employees can use as a daily security reminder.
+
+This project focuses on practical awareness and prevention for a small organization and is not intended to replace a technical penetration test or formal security audit.
+
+Thank you."
+
+Closing:
+"Thank you to Invexom for the opportunity."
