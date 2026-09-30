@@ -1,0 +1,47 @@
+INVEXOM SUBMISSION FORM - READY TO FILL
+
+Name:
+V Hemanth Kumar
+
+Email:
+hemanthkumaryadav13@gmail.com
+
+Mobile Number:
++917075979460
+
+Your Education:
+B.Tech / B.E. - Computer Science & Engineering
+
+College Name:
+Sri Venkateswara University College of Engineering (SV University)
+
+Passout Year:
+2027
+
+Gender:
+Select your actual gender in the form.
+
+Your Task:
+Perform a Basic Security Awareness Assessment
+
+Project GitHub URL:
+https://github.com/hemanthkumar1012/invexom-cybersecurity-awareness-assessment
+
+Project URL (optional):
+Leave blank unless you create a live web/project page.
+
+LinkedIn URL:
+Paste your actual LinkedIn profile URL.
+
+Instagram URL (optional):
+Leave blank unless you want to provide it.
+
+Description:
+Use the text in submission_description.txt.
+
+Video:
+Record a short screen-recording showing the GitHub repository and PDF.
+Start the video with:
+"Hello, this task was completed under the mentorship of Invexom as part of my Cybersecurity Internship."
+
+The internship page requests that the video tag Invexom and that the LinkedIn post URL be submitted in the form. Publish the video on LinkedIn, tag the Invexom account/page, then paste that post URL into the required video/LinkedIn field.
