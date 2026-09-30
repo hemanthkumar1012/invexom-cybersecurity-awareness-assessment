@@ -1,0 +1,30 @@
+LINKEDIN POST — INVEXOM CYBERSECURITY INTERNSHIP
+
+I completed my Cybersecurity Internship task under the mentorship of Invexom.
+
+Task: Perform a Basic Security Awareness Assessment
+
+For this project, I created a practical cybersecurity awareness assessment for a fictional small organization, NovaBridge Solutions.
+
+The assessment identifies 12 common employee-facing security risks, including:
+• Weak/reused passwords
+• Phishing and credential theft
+• Unsafe downloads
+• Unsecured devices
+• Social engineering
+• Improper data sharing
+• Outdated software
+• Untrusted links
+• Unsafe public Wi-Fi
+• Unauthorized USB/removable media
+• Missing MFA
+• Excessive access privileges
+
+For every risk, I documented the risk description, potential impact, example scenario, and recommended prevention.
+
+I also created an employee cybersecurity checklist focused on practical daily security habits such as MFA, secure password practices, device protection, safe data sharing, phishing awareness, and incident reporting.
+
+GitHub:
+https://github.com/hemanthkumar1012/invexom-cybersecurity-awareness-assessment
+
+#Cybersecurity #CyberSecurityAwareness #InformationSecurity #Internship #CyberSecurity #Invexom
